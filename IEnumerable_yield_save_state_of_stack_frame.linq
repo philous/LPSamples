@@ -1,6 +1,7 @@
 <Query Kind="Program" />
 
-//More detailed explanation how Ienumerable and yield works
+//Coroutine-like behaviour in C#
+//More detailed explanation how IEnumerable + yield works in C# under the hood
 //https://www.reddit.com/r/gamedev/comments/yum87/unity_coroutines_more_than_you_want_to_know/c5z8dsk/
 void Main()
 {
